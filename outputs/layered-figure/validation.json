@@ -1,0 +1,12 @@
+{
+  "pages": 1,
+  "vector_paths": 965,
+  "raster_images": 0,
+  "extractable_text_characters": 947,
+  "png_pixels": [
+    3240,
+    2160
+  ],
+  "temporal_checks": "equal optical pulse widths; no light during readout; current computed as G times voltage; passed",
+  "status": "concept schematic pending author scientific review"
+}

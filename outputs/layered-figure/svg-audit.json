@@ -1,0 +1,15 @@
+{
+  "svg": "/workspace/research-workspace/outputs/layered-figure/2TG1C1S_layered.svg",
+  "verdict": "PASS",
+  "auditable": true,
+  "width_mm": 183.0,
+  "text_count": 103,
+  "minimum_found_pt": 5.139370078740158,
+  "maximum_found_pt": 8.165354330708663,
+  "thresholds": {
+    "min_pt": 5.0,
+    "max_pt": 9.0,
+    "max_width_mm": 183.0
+  },
+  "findings": []
+}
